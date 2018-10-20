@@ -3,6 +3,7 @@ $(document).ready(function(){
     $("#toggle").click();
   });
   
+  $("#nav li:first").addClass("current");
   /*changing active state between li*/
 
   $(function(){
