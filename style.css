@@ -28,6 +28,9 @@ a,a:link,a:active{
   color:var(--darkblue);
   font-weight: bold;
 }
+section{
+  outline:none;
+}
 /*Colors*/
 :root{
   --darkblue:#182153;
