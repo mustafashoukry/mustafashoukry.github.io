@@ -397,11 +397,14 @@ line-height:3rem;
   background-color:var(--darkblue);
 }
 /*experience section*/
+.experience{
+  height: 100vh;
+}
 .line-1,.line-2{
   position:absolute;
   top:5rem;
   left:0;
-  height:80%;
+  height:110%;
   width:.3rem;
   background-color:#eee;
   background-color: var(--lightgray);
@@ -669,6 +672,9 @@ textarea{
   }
   .experience #job p{
     line-height:2rem;
+  }
+  .skills__header{
+    margin-top: 3rem;
   }
   .skills .row{
     display: none;
