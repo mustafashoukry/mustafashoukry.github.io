@@ -674,7 +674,7 @@ textarea{
     line-height:2rem;
   }
   .skills__header{
-    margin-top: 3rem;
+    margin-top: 22rem;
   }
   .skills .row{
     display: none;
@@ -712,7 +712,7 @@ textarea{
   .education__header,.experience__header,.skills__header,.contact__header{
     height: 8rem;
   }
-
+  
 }
 
 @media only screen and (max-width:37.5em){
